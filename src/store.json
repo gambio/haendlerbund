@@ -1,0 +1,38 @@
+{
+    "name": "haendlerbund",
+    "title": {
+        "en": "Haendlerbund",
+        "de": "Händlerbund"
+    },
+    "description": {
+        "en": "This is the Haendlerbund-Module.",
+        "de": "NOBODY LIKES THE RECORDS THAT I PLAY"
+    },
+    "requirements": {
+        "needed": {
+            "shop": {
+                "shopVersions": [
+	                ">4.9"
+                ]
+            },
+            "server": {
+                "phpVersions": [],
+                "mysqlVersions": []
+            },
+            "themes": [],
+            "receiptFiles": []
+        },
+        "hidden": {
+            "shop": {
+                "shopVersions": []
+            },
+            "server": {
+                "phpVersions": [],
+                "mysqlVersions": []
+            },
+            "themes": [],
+            "receiptFiles": [
+            ]
+        }
+    }
+}
